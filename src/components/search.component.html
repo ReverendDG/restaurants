@@ -1,0 +1,20 @@
+<!-- Restaurant_template -->
+<div class="container">
+    <form [formGroup]="searchForm" novalidate>
+        <input type="search" formControlName="searchInput" placeholder="Search" aria-label="Search" [(ngModel)] = "zipcode">
+        <button class="btn btn-outline-success" type="submit" (click)="search(this.zipcode)">Search</button>
+      </form>
+    
+  <div>
+    <div>
+      <h1>Zip searched: {{zipcode}}</h1>
+        <div class="col-sm-6 col-md-4" *ngFor="let restaurant of restaurants; let i=index">
+            <div class="card">
+                <div class="card-body">
+                  <h5 class="card-title">{{restaurant.name}}</h5>
+                </div>
+            </div>
+        </div>
+      </div>
+  </div>
+</div>

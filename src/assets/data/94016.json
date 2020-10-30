@@ -1,0 +1,960 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CqQCHwEAAPNR7JscRfaBNm3PTbEQoB5g3Wc5Jah69b_Cv3D9iu6-pTEzaLX6pnX6aaqdKQ1I5xDJl_keNEHoblJQKjQpsjkfZS7nYkFRymIS2oZ135AwolyziHI5PliGPzsxwPhmSTcUJZRvSElNb9A8uTOTYDwysZKadGErjI2XX4fFLMNLOBy9CQm3aos1EAg-pN3_JbSyPad6GCGlou7dzny0XNuMoQBozhimlDRv8S95NIAFs_KiGBWgaLnVwdSCTVI27g8PP3P7znSGd0QvnYwgxCbJwKVl9H-DrjJYQgfV6u6ZUYR17tSqGv0HTnvZzIVu5MLnWP92nZzMk1z3kWfdW0-vR7hBpcla64pknG_ceb7W-Jqhulnnzm5GKVDZRB7XthIQ1R0zYCQe0t4558v5cBGmuhoUXj6cCLSOrYsMMGu6tde9R_huw3c",
+   "results" : [
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7855643,
+               "lng" : -122.4085222
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7868400802915,
+                  "lng" : -122.4071500697085
+               },
+               "southwest" : {
+                  "lat" : 37.78414211970851,
+                  "lng" : -122.4098480302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "name" : "Hotel Fusion",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112571000091010561964\"\u003eHotel Fusion\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAr-gmB5cvLEwRZ9iABk-hooSjPs5RPLsXby-9ta2hgT7OdxVc07gGAW6wnE6Sa3ceX_cB14c6sOpwTOTdzGuOMUGZ7-c9XVnoIfzJWfRC6Ovpgoj2wtBmduh3P9BwrcbhEhDfXtbpmD_SnlhXbZJ2pYs6GhRyJOdROyVgmSch26WHNZYobVmU7w",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ0SMraI-AhYAREeJAvm2_yGM",
+         "plus_code" : {
+            "compound_code" : "QHPR+6H Central Embarcadero Piers Historic District, CA, USA",
+            "global_code" : "849VQHPR+6H"
+         },
+         "rating" : 3.8,
+         "reference" : "ChIJ0SMraI-AhYAREeJAvm2_yGM",
+         "scope" : "GOOGLE",
+         "types" : [
+            "lodging",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 745,
+         "vicinity" : "140 Ellis Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7923897,
+               "lng" : -122.4104443
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.79367328029149,
+                  "lng" : -122.4093311697085
+               },
+               "southwest" : {
+                  "lat" : 37.79097531970849,
+                  "lng" : -122.4120291302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/lodging-71.png",
+         "name" : "Hotel Fairmont San Francisco",
+         "opening_hours" : {
+            "open_now" : true
+         },
+         "photos" : [
+            {
+               "height" : 1994,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114386282276154448100\"\u003eHotel Fairmont San Francisco\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdI7ngHsthW6XO4Y6zI51rf5crIN91vOrN5hRgUAfOCv87etKVhPA-76caS_V9GS0OOQxngLDZrh--5NGskZOhvZCCqak3os19sAiPik9hlkBSJMfvvprBG1kWl3QmVTZEhA3qUEQ85U6msOPuyb7JN0GGhRvoOBRk2_hdCJ3DlcfzgR7DiUe0A",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJN2S4EI2AhYAR9J4Qeh1U8Aw",
+         "plus_code" : {
+            "compound_code" : "QHRQ+XR Central Embarcadero Piers Historic District, CA, USA",
+            "global_code" : "849VQHRQ+XR"
+         },
+         "rating" : 4.5,
+         "reference" : "ChIJN2S4EI2AhYAR9J4Qeh1U8Aw",
+         "scope" : "GOOGLE",
+         "types" : [ "lodging", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 5215,
+         "vicinity" : "950 Mason Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.77361,
+               "lng" : -122.421622
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7750214302915,
+                  "lng" : -122.4202089697085
+               },
+               "southwest" : {
+                  "lat" : 37.7723234697085,
+                  "lng" : -122.4229069302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "name" : "Zuni Café",
+         "photos" : [
+            {
+               "height" : 3672,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108343760390243622760\"\u003eDanielle Chen\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAVCizp__3b6d-wO_y0QvtIdNp5wzOrk6k6BAqT8IzS7ed19TzQMuNpigPD_JNOBRviJEKXysRoVu7PxzonDCwKBS1pEs-Ito2l_xYbHXpLYdP1FVeucTV53Tui5mScG0eEhBFIROhCd1ipYiOq9u6mM5HGhTPyjcl_jMwBkl2uTP5x4S4gnAx0A",
+               "width" : 6786
+            }
+         ],
+         "place_id" : "ChIJO7u9q5-AhYARiSSXyWv9eJ8",
+         "plus_code" : {
+            "compound_code" : "QHFH+C9 Central Embarcadero Piers Historic District, CA, USA",
+            "global_code" : "849VQHFH+C9"
+         },
+         "price_level" : 3,
+         "rating" : 4.4,
+         "reference" : "ChIJO7u9q5-AhYARiSSXyWv9eJ8",
+         "scope" : "GOOGLE",
+         "types" : [
+            "cafe",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 1663,
+         "vicinity" : "1658 Market Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7526517,
+               "lng" : -122.4182012
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7539868802915,
+                  "lng" : -122.4170032697085
+               },
+               "southwest" : {
+                  "lat" : 37.7512889197085,
+                  "lng" : -122.4197012302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "name" : "Taquería El Farolito",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112853564775452547135\"\u003eNathan Lutz\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmyRYppkkG2JGIginOm7IZ1wkAHnZz0XOYSye0QHJ9_nDrWlcazKVPCu7KDS6VsoJg9HxzDWCl2oHGAdrVUm_M0OQcZ3yap0HK98Z0jfJML7LA-RwBqEtsnrrFLoZsgmvEhDXG3WzrJ8E-kfLqnrxN1Z8GhSfrRP20M-B9hjFGqJYWWDZJui6Gw",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ5WRITUd-j4ARIcl68TeeR8M",
+         "plus_code" : {
+            "compound_code" : "QH3J+3P Vista Del Monte, CA, USA",
+            "global_code" : "849VQH3J+3P"
+         },
+         "price_level" : 1,
+         "rating" : 4.5,
+         "reference" : "ChIJ5WRITUd-j4ARIcl68TeeR8M",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 3856,
+         "vicinity" : "2779 Mission Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7589398,
+               "lng" : -122.4122858
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7603426302915,
+                  "lng" : -122.4110268197085
+               },
+               "southwest" : {
+                  "lat" : 37.7576446697085,
+                  "lng" : -122.4137247802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "name" : "Flour + Water",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117928962793602597431\"\u003ejaehan p\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxibmbfXzjyRLMyesarlnXnTEeEMg6T5cEUeQAfhB4i51WYH_-3X69Q_O6JMxrvQ0XSXGRQnZ1Tgu6K6ktqDAEZ76KaBgnD8WCx42zh81Dc60ifh8prtl6HaMilDRPqIxEhA-yIPMIxv1H2sv82AAcuJKGhRzKAfI4LDwGkgZfzuMg3wEmdP3wg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJDVaCXjd-j4AR4AOGUS0kLGc",
+         "plus_code" : {
+            "compound_code" : "QH5Q+H3 Vista Del Monte, CA, USA",
+            "global_code" : "849VQH5Q+H3"
+         },
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "ChIJDVaCXjd-j4AR4AOGUS0kLGc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1094,
+         "vicinity" : "2401 Harrison Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7749009,
+               "lng" : -122.4375083
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7762223302915,
+                  "lng" : -122.4362767697085
+               },
+               "southwest" : {
+                  "lat" : 37.7735243697085,
+                  "lng" : -122.4389747302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "name" : "Nopa",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 640,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104111246635874032234\"\u003eZAGAT\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPx6zT7K0o-8OpUXxdj4NL6oc_-_2cUeYmeBc-AZTymBqaxT0apji3ZACU9-Gmyiu6QxhBjYS_fX6FHhqKc1sZNJoG3TO87de7ErlcCv2JI-acENqpNqNQcv8V1dilZ4hEhAvzWSdbBbz5KPmNeRhLLP8GhSoT5aOwxtkW6ItYZN3KZzmqP0q8Q",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ_dQjyK-AhYARBc9DFlxcclg",
+         "plus_code" : {
+            "compound_code" : "QHF6+XX Vista Del Monte, CA, USA",
+            "global_code" : "849VQHF6+XX"
+         },
+         "price_level" : 3,
+         "rating" : 4.6,
+         "reference" : "ChIJ_dQjyK-AhYARBc9DFlxcclg",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2205,
+         "vicinity" : "560 Divisadero Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.783743,
+               "lng" : -122.4068557
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.78533105,
+                  "lng" : -122.40365395
+               },
+               "southwest" : {
+                  "lat" : 37.78238565000001,
+                  "lng" : -122.40857175
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "name" : "Westfield San Francisco Centre",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 575,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106989872492416375687\"\u003eWestfield San Francisco Centre\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4hw7nz0zQetJSbAFstBIMLYGwoj7x9P5WBQy6wpMzN0BR2V4PpYNiZgc3imoGTsdSYF8cielxlGAQI47PnemB5bq4muJxV_XfTZ395C0q_kNZm8xXojfOyAAmRGZJS-NEhD6UXoD62pyFE6JpOeYqReMGhTXvMmtC1h_WTMwF9fG1au4t0xgXQ",
+               "width" : 858
+            }
+         ],
+         "place_id" : "ChIJ6zMe3oWAhYARaZ33Z1BAMRo",
+         "plus_code" : {
+            "compound_code" : "QHMV+F7 Central Embarcadero Piers Historic District, CA, USA",
+            "global_code" : "849VQHMV+F7"
+         },
+         "rating" : 4.3,
+         "reference" : "ChIJ6zMe3oWAhYARaZ33Z1BAMRo",
+         "scope" : "GOOGLE",
+         "types" : [
+            "shopping_mall",
+            "department_store",
+            "movie_theater",
+            "shoe_store",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "clothing_store",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 16178,
+         "vicinity" : "865 Market Street, San Francisco"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7023588,
+               "lng" : -122.470302
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7033712802915,
+                  "lng" : -122.4691717697085
+               },
+               "southwest" : {
+                  "lat" : 37.7006733197085,
+                  "lng" : -122.4718697302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/movies-71.png",
+         "name" : "Century 20 Daly City XD and IMAX",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118321015232513466249\"\u003eArjono PTA\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABPF8q6sl88B-fbqBtp2-WJwhLM_gyphdFwUUgJSZ4IpMGGYnEDGj0aIMZ8jOFo3bsmDxhnH-TXMZC_6PGVoJNw1FAnJvK1N8B7FgsVwuplQSgq839j6i5H5sAA5vIQ6XEhDFYY4XaYnVKs3sSyZI9lNmGhTh2phA5mSzhZ319YAuBDav3h0Ncg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJbzxsjEB8j4ARMzaEAY4Sn8M",
+         "plus_code" : {
+            "compound_code" : "PG2H+WV Daly City, CA, USA",
+            "global_code" : "849VPG2H+WV"
+         },
+         "rating" : 4.2,
+         "reference" : "ChIJbzxsjEB8j4ARMzaEAY4Sn8M",
+         "scope" : "GOOGLE",
+         "types" : [
+            "movie_theater",
+            "meal_takeaway",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 3168,
+         "vicinity" : "1901 Junipero Serra Boulevard, Daly City"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7615527,
+               "lng" : -122.4190976
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.76288883029149,
+                  "lng" : -122.4178784197085
+               },
+               "southwest" : {
+                  "lat" : 37.7601908697085,
+                  "lng" : -122.4205763802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "name" : "Gracias Madre",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2736,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113066343046878263526\"\u003eMark Feferman\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAV7k4-1BfxrSsPzs3LDohK3Xhov-vVDhXGQ-H6oabKJqOvyHDEhKmtERM5uZMv1GtnRxuQAbiflgbzfIRjb4PvdbH5TLDz9tJzQMqDqODPHub9o164jtAkCScu0vXZ0EiEhCR1ICShHHungNihGrW_gTUGhST_46frKolsMfYOI2bkCvGg7D90A",
+               "width" : 3648
+            }
+         ],
+         "place_id" : "ChIJH3SFojx-j4AR-ceZkVNV7PA",
+         "plus_code" : {
+            "compound_code" : "QH6J+J9 Vista Del Monte, CA, USA",
+            "global_code" : "849VQH6J+J9"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJH3SFojx-j4AR-ceZkVNV7PA",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2408,
+         "vicinity" : "2211 Mission Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7710938,
+               "lng" : -122.4126502
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7723741302915,
+                  "lng" : -122.4114229697085
+               },
+               "southwest" : {
+                  "lat" : 37.7696761697085,
+                  "lng" : -122.4141209302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+         "name" : "DNA Lounge",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 576,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118126466483537376327\"\u003eDNA Lounge\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA5XKivCnySS0M_w0szAk0mx5lF0YcIARRVvmMGYCaX0ksULAJIk7ktaxx41Cvf8kNivYlUDR1Gx2Eg9_h5qowbfHl9fDzF4ecSicAw4Biev5jG0v-2YDdUK1dgLRZjIinEhDGeyymhgisovab61iHO7xAGhQxcA_uIy2g3T62b6TIWMYX0LtFlA",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJc_iInSh-j4ARUkdU9Rr5lFI",
+         "plus_code" : {
+            "compound_code" : "QHCP+CW Central Embarcadero Piers Historic District, CA, USA",
+            "global_code" : "849VQHCP+CW"
+         },
+         "price_level" : 2,
+         "rating" : 4.3,
+         "reference" : "ChIJc_iInSh-j4ARUkdU9Rr5lFI",
+         "scope" : "GOOGLE",
+         "types" : [
+            "night_club",
+            "cafe",
+            "bar",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "store",
+            "establishment"
+         ],
+         "user_ratings_total" : 1279,
+         "vicinity" : "375 11th Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7564917,
+               "lng" : -122.4191194
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7578435802915,
+                  "lng" : -122.4176470697085
+               },
+               "southwest" : {
+                  "lat" : 37.7551456197085,
+                  "lng" : -122.4203450302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "name" : "Foreign Cinema",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 533,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115762875002466104464\"\u003eForeign Cinema\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFVbJZDwihGvA976HHk0ZXbOqqPKyCHQMbqqtJItAofUz08ntDe9TgtGe6s3btrL6N5sp4ss_ryZK2D3cdcp5eHA_aHK_BMUkbhBEDDE7-a0Ht2wLnKJHIb9haz8KFeQ_EhABftxArggD2PZnD7ji6gihGhSJ8kGr53EhkMIsbUnKVhgUo2wxLA",
+               "width" : 800
+            }
+         ],
+         "place_id" : "ChIJPwvLyD5-j4AR2fM8C0bbVC8",
+         "plus_code" : {
+            "compound_code" : "QH4J+H9 Vista Del Monte, CA, USA",
+            "global_code" : "849VQH4J+H9"
+         },
+         "price_level" : 3,
+         "rating" : 4.5,
+         "reference" : "ChIJPwvLyD5-j4AR2fM8C0bbVC8",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2114,
+         "vicinity" : "2534 Mission Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7648313,
+               "lng" : -122.4211374
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7662523302915,
+                  "lng" : -122.4198115697085
+               },
+               "southwest" : {
+                  "lat" : 37.7635543697085,
+                  "lng" : -122.4225095302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "name" : "Pancho Villa Taqueria",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100996112187531990427\"\u003eH &amp; S\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANDMfuaYwLy1WkzS0Lu6xVP2m6DuV2KoCCVd2W45SeB9RgPrqb3GrLZnpmWV63eFX_-iP4My4z0TVEMgkl8rrhlC00Gpb9N30A8oIJIS6SFgmv1uTlmiUj14UiAEWPb2WEhBgplyUrDHLuppilQr7yl-KGhQkJdGltYlOMWoO2nlHt13-2J_ifQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJJ50NrSN-j4ARtLkebWzfDGc",
+         "plus_code" : {
+            "compound_code" : "QH7H+WG Vista Del Monte, CA, USA",
+            "global_code" : "849VQH7H+WG"
+         },
+         "price_level" : 1,
+         "rating" : 4.4,
+         "reference" : "ChIJJ50NrSN-j4ARtLkebWzfDGc",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2890,
+         "vicinity" : "3071 16th Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.77219169999999,
+               "lng" : -122.4306187
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.77349423029149,
+                  "lng" : -122.4293135697085
+               },
+               "southwest" : {
+                  "lat" : 37.7707962697085,
+                  "lng" : -122.4320115302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "name" : "YH - BEIJING",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110830390221669638642\"\u003eChristine Mamuad\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASGsLCDQogltroggVTZei0_ClUm9rED-vz1BDgDRofbIwooLUg6DiBTuaDCotIo8JGLVO_CeHkgbT-CD0TF0kXU6SvJ4imA1XJQM5bMyN5QmhwQYrXX8m60ePChcC5kqEEhA2La7Mu67V1FteDkoXXyYIGhRGL6vW0IamIknKkcQXWFrCCXTOZg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJ5Z8qxqaAhYARm_WgusAlTrU",
+         "plus_code" : {
+            "compound_code" : "QHC9+VQ Vista Del Monte, CA, USA",
+            "global_code" : "849VQHC9+VQ"
+         },
+         "price_level" : 1,
+         "rating" : 4.4,
+         "reference" : "ChIJ5Z8qxqaAhYARm_WgusAlTrU",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 185,
+         "vicinity" : "500 Haight Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7647206,
+               "lng" : -122.422986
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7661346802915,
+                  "lng" : -122.4216562197085
+               },
+               "southwest" : {
+                  "lat" : 37.76343671970851,
+                  "lng" : -122.4243541802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "name" : "The Monk's Kettle",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108810456091932436831\"\u003eThe Monk&#39;s Kettle\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOO8eX2SMlsLUiqUwUUjdJFhCkzaNGfoP5QJeObHONDhDoFLQyIe5IYFGyYPMc511tF2fhoBux0kF-tnX2ijkLdIDfna2pn7Dj-zOJXDRwKjRCyT32xiuX6DnhowZ3QAOEhDqoI6KvizvcM_zowbY406_GhQydl8PII4dew24ulx7B01CdgWXzA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJT_B1bCJ-j4ARA074-UL3mkY",
+         "plus_code" : {
+            "compound_code" : "QH7G+VR Vista Del Monte, CA, USA",
+            "global_code" : "849VQH7G+VR"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJT_B1bCJ-j4ARA074-UL3mkY",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "bar", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1378,
+         "vicinity" : "3141 16th Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.77710419999999,
+               "lng" : -122.4227403
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7783638802915,
+                  "lng" : -122.4215429197085
+               },
+               "southwest" : {
+                  "lat" : 37.7756659197085,
+                  "lng" : -122.4242408802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "name" : "Absinthe Brasserie & Bar",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 468,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111616578590809023752\"\u003eAbsinthe Brasserie &amp; Bar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRZAAAADhJm_hhTrXi-pJYnvYrWwXEm27duSah3sHhhhMPgnLaxedaLAU_e6iyaEDduil4cPkodLB0mkgHyH7ZU32jyY2-DitdBPvAW0nnlK34ICcodmwdS71GentrHwVHuuzjcEhDpA6YAcqhqJ2pRbUa1heedGhRXa9GKxZCEFmb9GXzjMUvzvyXT6A",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ1T-IlZiAhYAR5m-Mps4qLFk",
+         "plus_code" : {
+            "compound_code" : "QHGG+RW Central Embarcadero Piers Historic District, CA, USA",
+            "global_code" : "849VQHGG+RW"
+         },
+         "price_level" : 3,
+         "rating" : 4.3,
+         "reference" : "ChIJ1T-IlZiAhYAR5m-Mps4qLFk",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1405,
+         "vicinity" : "398 Hayes Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.679875,
+               "lng" : -122.452577
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.68132628029149,
+                  "lng" : -122.4509206697085
+               },
+               "southwest" : {
+                  "lat" : 37.67862831970849,
+                  "lng" : -122.4536186302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "name" : "Lucky Chances",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100371734292093298056\"\u003ePanther Gate\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAg2klmN2uWJi1h8meFp80AnkPGB-yqGv7w1o595fyIYviUXV8KPvNHqZYExSqttY1p8p_9lznfDsDX5u5o9pyGBbAvWMP5DfgXaXTUTsu5qYuY7z55Tu_gyxX63XF9J9gEhDE2Pq9pbvuRksNT5GKEEu7GhSSRg8M4mqkaHzO2pAtOhHOKxIOPg",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJh7U29Pt7j4AR3iyquklsmKQ",
+         "plus_code" : {
+            "compound_code" : "MGHW+WX Colma, CA, USA",
+            "global_code" : "849VMGHW+WX"
+         },
+         "rating" : 3.5,
+         "reference" : "ChIJh7U29Pt7j4AR3iyquklsmKQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "casino",
+            "finance",
+            "restaurant",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "user_ratings_total" : 148,
+         "vicinity" : "1700 Hillside Boulevard, Colma"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7829132,
+               "lng" : -122.4188995
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.78423678029149,
+                  "lng" : -122.4176706197085
+               },
+               "southwest" : {
+                  "lat" : 37.78153881970849,
+                  "lng" : -122.4203685802915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "name" : "Brenda's French Soul Food",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103120659216143630784\"\u003eRaddo Raddo\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAlBzmskx4j2TNeHGHQjW43OqpeJJ-mJJjjcFNfwtD16bLfHC8JOb67f4XfPiUMniIJ5ujjBRKIKu6EgODzCUL1bZua9QzrNL_Yw0cAYsqVp3RJLRF1fOn0XLU3VGxBFgIEhAFqVY-jlO4vaQm2UULIUC-GhQMlU5sOw86lAIHf_7l1qqEjkTLlA",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJZ9s5SJeAhYARIX3Fxl6oj6c",
+         "plus_code" : {
+            "compound_code" : "QHMJ+5C Central Embarcadero Piers Historic District, CA, USA",
+            "global_code" : "849VQHMJ+5C"
+         },
+         "price_level" : 2,
+         "rating" : 4.5,
+         "reference" : "ChIJZ9s5SJeAhYARIX3Fxl6oj6c",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 4357,
+         "vicinity" : "652 Polk Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.77002299999999,
+               "lng" : -122.4221172
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.77136293029149,
+                  "lng" : -122.4209095697085
+               },
+               "southwest" : {
+                  "lat" : 37.76866496970849,
+                  "lng" : -122.4236075302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "name" : "Zeitgeist",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117074148755730195753\"\u003eZeitgeist\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA2LJXHezYDSIqaJg_hz_uFw50XM3siDp6C27z3lE0Jv3H3I2z17pe7Y9BT80LiMRPriLM7-9nGwWiIh7Unmoe-T8cmo7xU-HleY9y5YVoYFMuzCAfutuyyzuKKXzpJjoFEhCY0s4E701RYODVNV07aQoJGhSaaRvhfWAwHTEZu8S4gwfW02Umpg",
+               "width" : 1500
+            }
+         ],
+         "place_id" : "ChIJU889QiB-j4ARzQofqaFrMJU",
+         "plus_code" : {
+            "compound_code" : "QHCH+25 Vista Del Monte, CA, USA",
+            "global_code" : "849VQHCH+25"
+         },
+         "price_level" : 1,
+         "rating" : 4.3,
+         "reference" : "ChIJU889QiB-j4ARzQofqaFrMJU",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 2471,
+         "vicinity" : "199 Valencia Street, San Francisco"
+      },
+      {
+         "business_status" : "CLOSED_TEMPORARILY",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7649778,
+               "lng" : -122.3964389
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7664183802915,
+                  "lng" : -122.3950969697085
+               },
+               "southwest" : {
+                  "lat" : 37.7637204197085,
+                  "lng" : -122.3977949302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "name" : "Bottom of the Hill",
+         "permanently_closed" : true,
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113520416191961646202\"\u003eTom Gardner\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiXniYyn90NdAKfogQqq2M2_yTa_gJIW-GwImIvAR4tGagf1fKHl8fXN_CM0msE7suEdFMLGWM7cQ5Iz-psQycSAvwJEro30hN4_CwHmMOyrU2f1kRF5Z4odY8Ts16t5AEhAZAwK54_EjrtvXj8l-Ier7GhRaIm31glCrQ33rly6B8ndbudm0PQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJQcdLBsx_j4AROyDSIMBYKH8",
+         "plus_code" : {
+            "compound_code" : "QJ73+XC Oakland, CA, USA",
+            "global_code" : "849VQJ73+XC"
+         },
+         "price_level" : 1,
+         "rating" : 4.6,
+         "reference" : "ChIJQcdLBsx_j4AROyDSIMBYKH8",
+         "scope" : "GOOGLE",
+         "types" : [ "bar", "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 670,
+         "vicinity" : "1233 17th Street, San Francisco"
+      },
+      {
+         "business_status" : "OPERATIONAL",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.7640778,
+               "lng" : -122.4325722
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7655286802915,
+                  "lng" : -122.4312441697085
+               },
+               "southwest" : {
+                  "lat" : 37.7628307197085,
+                  "lng" : -122.4339421302915
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
+         "name" : "Starbelly",
+         "opening_hours" : {
+            "open_now" : false
+         },
+         "photos" : [
+            {
+               "height" : 1677,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104633933815099514159\"\u003eStarbelly\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHA5OdFipqNmMJvXC8V31aifueAuN6fV7FoAe8m9ULGsLnBH1Fkj_7TJk1PDmKaGwjKeKfkfHIk2mH5z4J3HrPuUKMw6v_YRK-dvyTzwFeEZkCeVL94QWXiFfEb_ItMOJEhAmRh3uzC7vPljuRPs04BJFGhQyy4-zA6m4_IDsPTdQluzT40xhOg",
+               "width" : 2516
+            }
+         ],
+         "place_id" : "ChIJs6YBYhx-j4AR4LUJq9SFQt0",
+         "plus_code" : {
+            "compound_code" : "QH78+JX Vista Del Monte, CA, USA",
+            "global_code" : "849VQH78+JX"
+         },
+         "price_level" : 2,
+         "rating" : 4.4,
+         "reference" : "ChIJs6YBYhx-j4AR4LUJq9SFQt0",
+         "scope" : "GOOGLE",
+         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
+         "user_ratings_total" : 1278,
+         "vicinity" : "3583 16th Street, San Francisco"
+      }
+   ],
+   "status" : "OK"
+}
